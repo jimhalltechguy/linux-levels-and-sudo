@@ -1,8 +1,8 @@
 <h1>Linux User Levels and Sudo</h1>
 Here are some of the most common commands to navigate User Levels in a Linux system</b>:<br/>
-	</h2>“whoami”</h2> - command to check which user you currently are</h2>
-	</h2>“cd / “</h2> - go to the root (top level) directory</h2>
-	</h2>“cd ~ “</h2> - takes you to the Home directory</h2>
+	<h2>“whoami”</h2> - command to check which user you currently are</h2>
+	<h2>“cd / “</h2> - go to the root (top level) directory</h2>
+	<h2>“cd ~ “</h2> - takes you to the Home directory</h2>
   <h2>“su root” - change into the root user</h2>
 	<b>NOTE</b> - it is not good practice to work from the root user (use regular account)</b>:<br/>
 
