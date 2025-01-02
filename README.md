@@ -18,6 +18,6 @@ To use sudo, you add the sudo keyword before the command you want to run. The sy
 <h1>Why it's useful:</h1>
 Sudo helps users think more carefully about what they're doing before running commands with unlimited power</b>.<br/>
 
-<h1>How it's configured</h1>
+<h1>How it's configured:</h1>
 Administrators can use configuration files to restrict and manage privileged access. These files can be located in <b>/etc/sudoers</b> or in the <b>/etc/sudoers.d</b> directory</b>.<br/>
  
